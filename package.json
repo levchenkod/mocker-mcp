@@ -15,7 +15,7 @@
     "api",
     "mock"
   ],
-  "author": "",
+  "author": "@levchenkod",
   "license": "ISC",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.11.4",
