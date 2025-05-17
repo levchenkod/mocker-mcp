@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that proxies the [FakerAPI](https://fakerapi.it) via the MCP protocol. Gives a predictable random data output
 
+## Demo
+
+<img width="1294" alt="levchenkod-mcp-mocker-demo" src="https://github.com/user-attachments/assets/57bba499-c4b4-4cec-9f26-81d92530a34f" />
+
 ## Getting Started
 
 ### Installation
@@ -84,6 +88,7 @@ or
 
 ```
 Get 3 random companies
+
 ```
 
 ### Troubleshooting
